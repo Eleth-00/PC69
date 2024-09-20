@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int main()
+#include <locale.h>
+void main()
 {
-    printf("Hello world!\n");
-    return 0;
+    setlocale(LC_ALL,"Portuguese");
+
 }
