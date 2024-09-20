@@ -1,0 +1,2 @@
+# PC69
+LEARNING GIT COMANDS with ti897 course
